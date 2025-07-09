@@ -47,3 +47,7 @@ pip install -r requirements.txt
 cd app
 python main.py
 In order to run this file, the fruits8.keras file and this python file must be in the same folder
+
+
+
+http://127.0.0.1:5000/
