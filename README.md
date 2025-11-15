@@ -46,7 +46,6 @@ pip install -r requirements.txt
 ## 4. Run the app
 cd app
 python main.py
-In order to run this file, the fruits8.keras file and the main.py file must be in the same folder
 
 
 
